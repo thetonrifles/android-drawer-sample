@@ -1,0 +1,10 @@
+<resources>
+
+    <string name="app_name">DrawerSample</string>
+    <string name="drawer_opened">opened</string>
+    <string name="drawer_closed">closed</string>
+    <string name="drawer_option_1">Option 1</string>
+    <string name="drawer_option_2">Option 2</string>
+    <string name="drawer_option_3">Option 3</string>
+
+</resources>

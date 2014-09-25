@@ -1,0 +1,9 @@
+- DEBUG
+
+$ keytool -list -v -keystore debug.keystore -alias androiddebugkey -storepass android -keypass android
+MD5:  5E:C3:3A:E6:62:8F:78:57:CC:0D:05:B2:DB:CD:5F:84
+SHA1: 43:0B:30:CD:EC:35:82:9F:48:31:9A:F3:60:95:8F:61:37:71:81:B2
+
+$ keytool -exportcert -alias androiddebugkey -keystore debug.keystore | openssl sha1 -binary | openssl base64
+Enter keystore password:  android
+Qwswzew1gp9IMZrzYJWPYTdxgbI=

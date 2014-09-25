@@ -1,0 +1,14 @@
+<resources xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <color name="green">#00ff84</color>
+    <color name="dark_green">#00cc64</color>
+    <color name="red">#b20838</color>
+    <color name="white">#ffffff</color>
+    <color name="black">#000000</color>
+    <color name="gray">#c6c6c6</color>
+    <color name="light_gray">#e6e6e6</color>
+    <color name="dark_gray">#675a5b</color>
+    <color name="overlay">#7a000000</color>
+    <color name="light_overlay">#4a000000</color>
+
+</resources>
